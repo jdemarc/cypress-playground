@@ -1,3 +1,3 @@
 # Area for experimenting with [Cypress.io](https://www.cypress.io/)
 
-Using my Parley app so far. Will update accordingly.
+Going back to start with a tutorial. Will try to apply testing to other projects.
